@@ -19,4 +19,4 @@ let esValido_no = checkCoupon(
   "September 5, 2014",
   "October 1, 2014"
 );
-console.log(esValido_no); // true
+console.log(esValido_no); // false
